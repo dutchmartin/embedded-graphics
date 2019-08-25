@@ -4,6 +4,7 @@ mod font12x16;
 mod font6x12;
 mod font6x8;
 mod font8x16;
+mod lv_font;
 pub mod font_builder;
 
 pub use self::font12x16::Font12x16;
